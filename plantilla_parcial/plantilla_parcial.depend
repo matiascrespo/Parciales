@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1542203756 source:c:\users\alumno\desktop\plantilla_parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541793810 c:\users\alumno\desktop\plantilla_parcial\linkedlist.h
+
+1542203785 c:\users\alumno\desktop\plantilla_parcial\employee.h
+	"LinkedList.h"
+
+1541793810 c:\users\alumno\desktop\plantilla_parcial\parser.h
+
+1541793810 c:\users\alumno\desktop\plantilla_parcial\utn.h
+
+1542203521 source:c:\users\alumno\desktop\plantilla_parcial\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"utn.h"
+
+1541793810 c:\users\alumno\desktop\plantilla_parcial\controller.h
+
+1542199951 source:c:\users\alumno\desktop\plantilla_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542200502 source:c:\users\alumno\desktop\plantilla_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+	"Employee.h"
+	"Controller.h"
+
+1542202312 source:c:\users\alumno\desktop\plantilla_parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542200198 source:c:\users\alumno\desktop\plantilla_parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542187946 source:c:\users\kobe\desktop\plantilla_parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542402294 c:\users\kobe\desktop\plantilla_parcial\linkedlist.h
+
+1542758118 c:\users\kobe\desktop\plantilla_parcial\employee.h
+	"LinkedList.h"
+
+1542187946 c:\users\kobe\desktop\plantilla_parcial\parser.h
+
+1542187946 c:\users\kobe\desktop\plantilla_parcial\utn.h
+
+1542758118 source:c:\users\kobe\desktop\plantilla_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+	"Employee.h"
+	"Controller.h"
+
+1542187946 c:\users\kobe\desktop\plantilla_parcial\controller.h
+
+1542187946 source:c:\users\kobe\desktop\plantilla_parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542187946 source:c:\users\kobe\desktop\plantilla_parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542758661 source:c:\users\kobe\desktop\plantilla_parcial\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"utn.h"
+
+1542402327 source:c:\users\kobe\desktop\plantilla_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
