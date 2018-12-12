@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1542804352 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542804948 d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\linkedlist.h
+
+1542804919 d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\employee.h
+	"LinkedList.h"
+
+1542758857 d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\parser.h
+
+1542758857 d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\utn.h
+
+1542806660 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"utn.h"
+
+1542758857 d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\controller.h
+
+1542806660 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542806065 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+	"parser.h"
+	"Controller.h"
+
+1542806660 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542758857 source:d:\parcial2_mey_gonzalo\mey_gonzalo_sp_1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
