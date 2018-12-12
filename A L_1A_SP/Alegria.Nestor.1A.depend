@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1542676603 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542677262 c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\linkedlist.h
+
+1542674909 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+
+1542044405 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542234481 c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\controller.h
+
+1542044405 c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\parser.h
+	"LinkedList.h"
+
+1542676019 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1542676826 c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\employee.h
+	"LinkedList.h"
+
+1542044405 c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\utn.h
+
+1542670217 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542232651 source:c:\users\nestor\desktop\c\parcial ii\alegria.nestor.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542679164 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1542044405 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\parser.h
+	"LinkedList.h"
+
+1542726499 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\linkedlist.h
+
+1542234481 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\controller.h
+
+1542676826 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\employee.h
+	"LinkedList.h"
+
+1542044405 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\utn.h
+
+1542670217 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542681939 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+
+1542232651 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542044405 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542726499 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria.nestor.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1542807355 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1542801135 d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\parser.h
+	"LinkedList.h"
+
+1542807459 d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\linkedlist.h
+
+1542806855 d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\controller.h
+
+1542807192 d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\employee.h
+	"LinkedList.h"
+
+1542808151 d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\utn.h
+
+1542807156 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542807464 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1542808068 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1542802444 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542808017 source:d:\alegria.nestor.1a\parcial ii\alegria.nestor.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542807355 source:c:\users\alumno\desktop\alegria_nestor.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1542801135 c:\users\alumno\desktop\alegria_nestor.1a\parser.h
+	"LinkedList.h"
+
+1542807459 c:\users\alumno\desktop\alegria_nestor.1a\linkedlist.h
+
+1542806855 c:\users\alumno\desktop\alegria_nestor.1a\controller.h
+
+1542807192 c:\users\alumno\desktop\alegria_nestor.1a\employee.h
+	"LinkedList.h"
+
+1542808151 c:\users\alumno\desktop\alegria_nestor.1a\utn.h
+
+1542807156 source:c:\users\alumno\desktop\alegria_nestor.1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542807464 source:c:\users\alumno\desktop\alegria_nestor.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1542808068 source:c:\users\alumno\desktop\alegria_nestor.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1542802444 source:c:\users\alumno\desktop\alegria_nestor.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542808017 source:c:\users\alumno\desktop\alegria_nestor.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1542807355 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1542801135 c:\users\alumno\desktop\alegria_nestor_1a_sp\parser.h
+	"LinkedList.h"
+
+1542807459 c:\users\alumno\desktop\alegria_nestor_1a_sp\linkedlist.h
+
+1542806855 c:\users\alumno\desktop\alegria_nestor_1a_sp\controller.h
+
+1542807192 c:\users\alumno\desktop\alegria_nestor_1a_sp\employee.h
+	"LinkedList.h"
+
+1542808151 c:\users\alumno\desktop\alegria_nestor_1a_sp\utn.h
+
+1542808795 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542807464 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1542808402 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1542802444 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542808017 source:c:\users\alumno\desktop\alegria_nestor_1a_sp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1543431965 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\parser.h
+	"LinkedList.h"
+
+1543431965 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\linkedlist.h
+
+1543431965 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\controller.h
+
+1543431965 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\employee.h
+	"LinkedList.h"
+
+1543431965 c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\utn.h
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1543431965 source:c:\users\nestor\desktop\c\segundo-parcial\parcial ii\alegria_nestor_1a_sp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
